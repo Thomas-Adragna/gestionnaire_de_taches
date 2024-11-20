@@ -1,0 +1,19 @@
+# Fichiers Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Environnement virtuel
+env/
+venv/
+
+# Fichiers Django
+db.sqlite3
+*.log
+
+# Clés et fichiers sensibles
+*.env
+.env
+
+# Fichiers système
+.DS_Store
